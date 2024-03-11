@@ -1,4 +1,4 @@
 ### virka
 For play go to:
 
-https://sergudo.github.io/virka/
+https://sergudo.github.io/vira/
